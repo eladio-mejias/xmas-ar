@@ -1,2 +1,2 @@
 # xmas-ar
-demo
+demo application 
